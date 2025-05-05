@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2a3bb1db-0f02-4bab-8c02-7ca67333ea72)This is my first task at Minfy Technologies on git and github.
+This is my first task at Minfy Technologies on git and github.
 
 I have initialiazed a github repository and created a read.txt file.
 
@@ -37,4 +37,4 @@ this is my second change
 this is my third change
 
 git log screenshort
-
+![image](https://github.com/user-attachments/assets/2a3bb1db-0f02-4bab-8c02-7ca67333ea72)
