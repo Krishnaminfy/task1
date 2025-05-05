@@ -38,3 +38,15 @@ this is my third change
 
 git log screenshort
 ![image](https://github.com/user-attachments/assets/2a3bb1db-0f02-4bab-8c02-7ca67333ea72)
+
+git diff between initial and second commit
+![image](https://github.com/user-attachments/assets/80e48f14-db13-4d45-ae07-1e8607c82ce2)
+
+git diff between second and third commit 
+![image](https://github.com/user-attachments/assets/1f0fb65b-d935-410d-b96e-8e5cc9b28602)
+
+git diff between third and forth commit
+![image](https://github.com/user-attachments/assets/78c97633-d932-4188-83ef-b0c1ed12b490)
+
+
+
