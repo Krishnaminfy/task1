@@ -53,3 +53,6 @@ git diff between third and forth commit
 I am writing this sentence to make some changes then I will pull this into my local repository.
 
 
+step 7: After making new branch "feature/update-readme", I am writing this line to make changes in the "readme.md" file.
+
+
