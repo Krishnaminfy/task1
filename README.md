@@ -49,4 +49,7 @@ git diff between third and forth commit
 ![image](https://github.com/user-attachments/assets/78c97633-d932-4188-83ef-b0c1ed12b490)
 
 
+# Assignment 2 GitHub Basics & Collaboration
+I am writing this sentence to make some changes then I will pull this into my local repository.
+
 
